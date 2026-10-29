@@ -1,4 +1,4 @@
-package tema3_for;
+package tema3_arrays;
 
 import java.util.Iterator;
 
