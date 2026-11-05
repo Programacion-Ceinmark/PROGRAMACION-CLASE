@@ -1,4 +1,4 @@
-package tema3_arrays;
+package tema3_arrays_NUMERICOS;
 
 public class MayorQue10 {
 	public static void main(String[] args) {
