@@ -1,6 +1,6 @@
 package tema3_arrays_STRINGS_CHARS;
 
-public class StringLetra_a_Letra {
+public class Ej2_StringLetra_a_Letra {
 
 	public static void main(String[] args) {
 

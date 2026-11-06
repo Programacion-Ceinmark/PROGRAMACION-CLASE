@@ -1,6 +1,6 @@
 package tema3_arrays_STRINGS_CHARS;
 
-public class Colores {
+public class Ej1_Colores {
 	public static void main(String[] args) {
 
 		// Defino el array con 4 colores

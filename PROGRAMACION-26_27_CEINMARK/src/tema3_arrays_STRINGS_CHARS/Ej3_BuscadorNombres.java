@@ -2,7 +2,7 @@ package tema3_arrays_STRINGS_CHARS;
 
 import java.util.Scanner;
 
-public class BuscadorNombres {
+public class Ej3_BuscadorNombres {
 
 	public static void main(String[] args) {
 
