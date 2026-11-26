@@ -72,6 +72,6 @@ public class MultiMat {
 			System.out.println("\n");
 		}
 		teclado.close();
-
+		System.out.println();
 	}
 }
