@@ -15,5 +15,6 @@ public class EjemploMetodos {
 		holaMundo();
 		int resultado = suma(10, 20);
 		System.out.println(resultado);
+		
 	}
 }
